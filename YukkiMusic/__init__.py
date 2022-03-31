@@ -7,11 +7,11 @@
 #
 # All rights reserved.
 
-from YukkiMusic.core.bot import YukkiBot
-from YukkiMusic.core.dir import dirr
-from YukkiMusic.core.git import git
-from YukkiMusic.core.userbot import Userbot
-from YukkiMusic.misc import dbb, heroku, sudo
+from ՏհɑƘíժɑ | Music.core.bot import ՏհɑƘíժɑ | Music bot
+from ՏհɑƘíժɑ | Music.core.dir import dirr
+from ՏհɑƘíժɑ | Music.core.git import git
+from ՏհɑƘíժɑ | Music.core.userbot import Userbot
+from ՏհɑƘíժɑ | Music.misc import dbb, heroku, sudo
 
 from .logging import LOGGER
 
@@ -31,7 +31,7 @@ heroku()
 sudo()
 
 # Bot Client
-app = YukkiBot()
+app = ՏհɑƘíժɑ | Music bot()
 
 # Assistant Client
 userbot = Userbot()
